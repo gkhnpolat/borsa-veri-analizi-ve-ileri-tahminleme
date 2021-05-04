@@ -1,1 +1,0 @@
-# borsa-veri-analizi-ve-ileri-tahminleme
